@@ -1,488 +1,2108 @@
 {
 	"101": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "34",
-		"Valor": "0.634"
+		"IDHc": {
+			"2011": {
+				"Posición": "52",
+				"Valor": "0.756"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "50",
+				"Valor": "0.845"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "66",
+				"Valor": "0.789"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "34",
+				"Valor": "0.634"
+			}
+		}
 	},
 	"102": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "1",
-		"Valor": "1"
+		"IDHc": {
+			"2011": {
+				"Posición": "4",
+				"Valor": "0.924"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "33",
+				"Valor": "0.866"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "30",
+				"Valor": "0.906"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "1",
+				"Valor": "1"
+			}
+		}
 	},
 	"103": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "69",
-		"Valor": "0.431"
+		"IDHc": {
+			"2011": {
+				"Posición": "72",
+				"Valor": "0.677"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "49",
+				"Valor": "0.847"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "71",
+				"Valor": "0.753"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "69",
+				"Valor": "0.431"
+			}
+		}
 	},
 	"104": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "50",
-		"Valor": "0.577"
+		"IDHc": {
+			"2011": {
+				"Posición": "38",
+				"Valor": "0.784"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "21",
+				"Valor": "0.885"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "36",
+				"Valor": "0.891"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "50",
+				"Valor": "0.577"
+			}
+		}
 	},
 	"105": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "70",
-		"Valor": "0.43"
+		"IDHc": {
+			"2011": {
+				"Posición": "70",
+				"Valor": "0.696"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "59",
+				"Valor": "0.832"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "55",
+				"Valor": "0.825"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "70",
+				"Valor": "0.43"
+			}
+		}
 	},
 	"106": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "54",
-		"Valor": "0.56"
+		"IDHc": {
+			"2011": {
+				"Posición": "61",
+				"Valor": "0.731"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "75",
+				"Valor": "0.781"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "48",
+				"Valor": "0.852"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "54",
+				"Valor": "0.56"
+			}
+		}
 	},
 	"107": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "22",
-		"Valor": "0.709"
+		"IDHc": {
+			"2011": {
+				"Posición": "24",
+				"Valor": "0.814"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "55",
+				"Valor": "0.84"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "34",
+				"Valor": "0.891"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "22",
+				"Valor": "0.709"
+			}
+		}
 	},
 	"108": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "35",
-		"Valor": "0.631"
+		"IDHc": {
+			"2011": {
+				"Posición": "49",
+				"Valor": "0.762"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "52",
+				"Valor": "0.844"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "59",
+				"Valor": "0.812"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "35",
+				"Valor": "0.631"
+			}
+		}
 	},
 	"109": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "2",
-		"Valor": "1"
+		"IDHc": {
+			"2011": {
+				"Posición": "7",
+				"Valor": "0.913"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "48",
+				"Valor": "0.848"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "33",
+				"Valor": "0.892"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "2",
+				"Valor": "1"
+			}
+		}
 	},
 	"110": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "80",
-		"Valor": "0.312"
+		"IDHc": {
+			"2011": {
+				"Posición": "81",
+				"Valor": "0.596"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "54",
+				"Valor": "0.84"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "81",
+				"Valor": "0.635"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "80",
+				"Valor": "0.312"
+			}
+		}
 	},
 	"111": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "53",
-		"Valor": "0.565"
+		"IDHc": {
+			"2011": {
+				"Posición": "58",
+				"Valor": "0.738"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "35",
+				"Valor": "0.865"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "68",
+				"Valor": "0.783"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "53",
+				"Valor": "0.565"
+			}
+		}
 	},
 	"112": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "60",
-		"Valor": "0.504"
+		"IDHc": {
+			"2011": {
+				"Posición": "44",
+				"Valor": "0.777"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "32",
+				"Valor": "0.868"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "10",
+				"Valor": "0.961"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "60",
+				"Valor": "0.504"
+			}
+		}
 	},
 	"113": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "12",
-		"Valor": "0.825"
+		"IDHc": {
+			"2011": {
+				"Posición": "13",
+				"Valor": "0.853"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "40",
+				"Valor": "0.857"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "40",
+				"Valor": "0.878"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "12",
+				"Valor": "0.825"
+			}
+		}
 	},
 	"114": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "7",
-		"Valor": "0.889"
+		"IDHc": {
+			"2011": {
+				"Posición": "6",
+				"Valor": "0.915"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "10",
+				"Valor": "0.918"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "19",
+				"Valor": "0.938"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "7",
+				"Valor": "0.889"
+			}
+		}
 	},
 	"115": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "4",
-		"Valor": "0.954"
+		"IDHc": {
+			"2011": {
+				"Posición": "3",
+				"Valor": "0.93"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "16",
+				"Valor": "0.89"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "16",
+				"Valor": "0.946"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "4",
+				"Valor": "0.954"
+			}
+		}
 	},
 	"116": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "39",
-		"Valor": "0.613"
+		"IDHc": {
+			"2011": {
+				"Posición": "39",
+				"Valor": "0.781"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "68",
+				"Valor": "0.808"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "25",
+				"Valor": "0.922"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "39",
+				"Valor": "0.613"
+			}
+		}
 	},
 	"117": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "47",
-		"Valor": "0.586"
+		"IDHc": {
+			"2011": {
+				"Posición": "19",
+				"Valor": "0.83"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "1",
+				"Valor": "0.976"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "22",
+				"Valor": "0.926"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "47",
+				"Valor": "0.586"
+			}
+		}
 	},
 	"118": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "11",
-		"Valor": "0.845"
+		"IDHc": {
+			"2011": {
+				"Posición": "16",
+				"Valor": "0.844"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "5",
+				"Valor": "0.939"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "73",
+				"Valor": "0.748"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "11",
+				"Valor": "0.845"
+			}
+		}
 	},
 	"119": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "61",
-		"Valor": "0.503"
+		"IDHc": {
+			"2011": {
+				"Posición": "50",
+				"Valor": "0.76"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "47",
+				"Valor": "0.85"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "21",
+				"Valor": "0.927"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "61",
+				"Valor": "0.503"
+			}
+		}
 	},
 	"120": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "76",
-		"Valor": "0.379"
+		"IDHc": {
+			"2011": {
+				"Posición": "69",
+				"Valor": "0.696"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "17",
+				"Valor": "0.888"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "57",
+				"Valor": "0.821"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "76",
+				"Valor": "0.379"
+			}
+		}
 	},
 	"201": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "46",
-		"Valor": "0.588"
+		"IDHc": {
+			"2011": {
+				"Posición": "56",
+				"Valor": "0.749"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "45",
+				"Valor": "0.851"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "61",
+				"Valor": "0.807"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "46",
+				"Valor": "0.588"
+			}
+		}
 	},
 	"202": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "63",
-		"Valor": "0.491"
+		"IDHc": {
+			"2011": {
+				"Posición": "57",
+				"Valor": "0.738"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "12",
+				"Valor": "0.902"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "56",
+				"Valor": "0.822"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "63",
+				"Valor": "0.491"
+			}
+		}
 	},
 	"203": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "52",
-		"Valor": "0.567"
+		"IDHc": {
+			"2011": {
+				"Posición": "41",
+				"Valor": "0.779"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "11",
+				"Valor": "0.909"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "46",
+				"Valor": "0.859"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "52",
+				"Valor": "0.567"
+			}
+		}
 	},
 	"204": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "28",
-		"Valor": "0.682"
+		"IDHc": {
+			"2011": {
+				"Posición": "12",
+				"Valor": "0.859"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "4",
+				"Valor": "0.943"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "13",
+				"Valor": "0.952"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "28",
+				"Valor": "0.682"
+			}
+		}
 	},
 	"205": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "21",
-		"Valor": "0.724"
+		"IDHc": {
+			"2011": {
+				"Posición": "27",
+				"Valor": "0.807"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "61",
+				"Valor": "0.825"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "42",
+				"Valor": "0.873"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "21",
+				"Valor": "0.724"
+			}
+		}
 	},
 	"206": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "62",
-		"Valor": "0.496"
+		"IDHc": {
+			"2011": {
+				"Posición": "66",
+				"Valor": "0.719"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "27",
+				"Valor": "0.876"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "67",
+				"Valor": "0.786"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "62",
+				"Valor": "0.496"
+			}
+		}
 	},
 	"207": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "57",
-		"Valor": "0.536"
+		"IDHc": {
+			"2011": {
+				"Posición": "51",
+				"Valor": "0.758"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "28",
+				"Valor": "0.875"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "45",
+				"Valor": "0.863"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "57",
+				"Valor": "0.536"
+			}
+		}
 	},
 	"208": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "65",
-		"Valor": "0.483"
+		"IDHc": {
+			"2011": {
+				"Posición": "68",
+				"Valor": "0.713"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "38",
+				"Valor": "0.863"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "65",
+				"Valor": "0.794"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "65",
+				"Valor": "0.483"
+			}
+		}
 	},
 	"209": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "20",
-		"Valor": "0.729"
+		"IDHc": {
+			"2011": {
+				"Posición": "15",
+				"Valor": "0.847"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "44",
+				"Valor": "0.852"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "9",
+				"Valor": "0.962"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "20",
+				"Valor": "0.729"
+			}
+		}
 	},
 	"210": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "33",
-		"Valor": "0.647"
+		"IDHc": {
+			"2011": {
+				"Posición": "34",
+				"Valor": "0.79"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "24",
+				"Valor": "0.877"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "49",
+				"Valor": "0.845"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "33",
+				"Valor": "0.647"
+			}
+		}
 	},
 	"211": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "64",
-		"Valor": "0.485"
+		"IDHc": {
+			"2011": {
+				"Posición": "63",
+				"Valor": "0.726"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "20",
+				"Valor": "0.885"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "60",
+				"Valor": "0.808"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "64",
+				"Valor": "0.485"
+			}
+		}
 	},
 	"212": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "59",
-		"Valor": "0.532"
+		"IDHc": {
+			"2011": {
+				"Posición": "55",
+				"Valor": "0.75"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "22",
+				"Valor": "0.879"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "50",
+				"Valor": "0.839"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "59",
+				"Valor": "0.532"
+			}
+		}
 	},
 	"213": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "66",
-		"Valor": "0.457"
+		"IDHc": {
+			"2011": {
+				"Posición": "59",
+				"Valor": "0.738"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "36",
+				"Valor": "0.865"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "35",
+				"Valor": "0.891"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "66",
+				"Valor": "0.457"
+			}
+		}
 	},
 	"214": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "73",
-		"Valor": "0.406"
+		"IDHc": {
+			"2011": {
+				"Posición": "74",
+				"Valor": "0.671"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "15",
+				"Valor": "0.891"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "76",
+				"Valor": "0.717"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "73",
+				"Valor": "0.406"
+			}
+		}
 	},
 	"215": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "75",
-		"Valor": "0.391"
+		"IDHc": {
+			"2011": {
+				"Posición": "76",
+				"Valor": "0.659"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "25",
+				"Valor": "0.877"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "77",
+				"Valor": "0.708"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "75",
+				"Valor": "0.391"
+			}
+		}
 	},
 	"301": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "25",
-		"Valor": "0.687"
+		"IDHc": {
+			"2011": {
+				"Posición": "26",
+				"Valor": "0.812"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "56",
+				"Valor": "0.836"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "29",
+				"Valor": "0.912"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "25",
+				"Valor": "0.687"
+			}
+		}
 	},
 	"302": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "58",
-		"Valor": "0.536"
+		"IDHc": {
+			"2011": {
+				"Posición": "65",
+				"Valor": "0.721"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "23",
+				"Valor": "0.879"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "72",
+				"Valor": "0.749"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "58",
+				"Valor": "0.536"
+			}
+		}
 	},
 	"303": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "31",
-		"Valor": "0.666"
+		"IDHc": {
+			"2011": {
+				"Posición": "32",
+				"Valor": "0.796"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "9",
+				"Valor": "0.924"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "62",
+				"Valor": "0.797"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "31",
+				"Valor": "0.666"
+			}
+		}
 	},
 	"304": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "56",
-		"Valor": "0.551"
+		"IDHc": {
+			"2011": {
+				"Posición": "30",
+				"Valor": "0.801"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "18",
+				"Valor": "0.887"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "5",
+				"Valor": "0.966"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "56",
+				"Valor": "0.551"
+			}
+		}
 	},
 	"305": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "55",
-		"Valor": "0.553"
+		"IDHc": {
+			"2011": {
+				"Posición": "53",
+				"Valor": "0.755"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "19",
+				"Valor": "0.885"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "54",
+				"Valor": "0.826"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "55",
+				"Valor": "0.553"
+			}
+		}
 	},
 	"306": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "36",
-		"Valor": "0.625"
+		"IDHc": {
+			"2011": {
+				"Posición": "45",
+				"Valor": "0.776"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "57",
+				"Valor": "0.835"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "43",
+				"Valor": "0.87"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "36",
+				"Valor": "0.625"
+			}
+		}
 	},
 	"307": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "17",
-		"Valor": "0.763"
+		"IDHc": {
+			"2011": {
+				"Posición": "29",
+				"Valor": "0.805"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "41",
+				"Valor": "0.857"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "64",
+				"Valor": "0.797"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "17",
+				"Valor": "0.763"
+			}
+		}
 	},
 	"308": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "14",
-		"Valor": "0.784"
+		"IDHc": {
+			"2011": {
+				"Posición": "17",
+				"Valor": "0.844"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "42",
+				"Valor": "0.856"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "32",
+				"Valor": "0.892"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "14",
+				"Valor": "0.784"
+			}
+		}
 	},
 	"401": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "13",
-		"Valor": "0.797"
+		"IDHc": {
+			"2011": {
+				"Posición": "22",
+				"Valor": "0.822"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "53",
+				"Valor": "0.842"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "53",
+				"Valor": "0.828"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "13",
+				"Valor": "0.797"
+			}
+		}
 	},
 	"402": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "19",
-		"Valor": "0.73"
+		"IDHc": {
+			"2011": {
+				"Posición": "20",
+				"Valor": "0.829"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "29",
+				"Valor": "0.873"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "38",
+				"Valor": "0.884"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "19",
+				"Valor": "0.73"
+			}
+		}
 	},
 	"403": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "5",
-		"Valor": "0.931"
+		"IDHc": {
+			"2011": {
+				"Posición": "1",
+				"Valor": "0.961"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "2",
+				"Valor": "0.976"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "3",
+				"Valor": "0.976"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "5",
+				"Valor": "0.931"
+			}
+		}
 	},
 	"404": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "24",
-		"Valor": "0.702"
+		"IDHc": {
+			"2011": {
+				"Posición": "23",
+				"Valor": "0.814"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "26",
+				"Valor": "0.876"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "44",
+				"Valor": "0.863"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "24",
+				"Valor": "0.702"
+			}
+		}
 	},
 	"405": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "8",
-		"Valor": "0.884"
+		"IDHc": {
+			"2011": {
+				"Posición": "9",
+				"Valor": "0.885"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "51",
+				"Valor": "0.845"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "23",
+				"Valor": "0.925"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "8",
+				"Valor": "0.884"
+			}
+		}
 	},
 	"406": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "9",
-		"Valor": "0.871"
+		"IDHc": {
+			"2011": {
+				"Posición": "11",
+				"Valor": "0.863"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "39",
+				"Valor": "0.859"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "47",
+				"Valor": "0.858"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "9",
+				"Valor": "0.871"
+			}
+		}
 	},
 	"407": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "3",
-		"Valor": "1"
+		"IDHc": {
+			"2011": {
+				"Posición": "2",
+				"Valor": "0.939"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "62",
+				"Valor": "0.825"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "1",
+				"Valor": "0.993"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "3",
+				"Valor": "1"
+			}
+		}
 	},
 	"408": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "10",
-		"Valor": "0.865"
+		"IDHc": {
+			"2011": {
+				"Posición": "5",
+				"Valor": "0.919"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "13",
+				"Valor": "0.901"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "2",
+				"Valor": "0.992"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "10",
+				"Valor": "0.865"
+			}
+		}
 	},
 	"409": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "6",
-		"Valor": "0.897"
+		"IDHc": {
+			"2011": {
+				"Posición": "8",
+				"Valor": "0.903"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "46",
+				"Valor": "0.85"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "8",
+				"Valor": "0.964"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "6",
+				"Valor": "0.897"
+			}
+		}
 	},
 	"410": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "79",
-		"Valor": "0.348"
+		"IDHc": {
+			"2011": {
+				"Posición": "77",
+				"Valor": "0.655"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "7",
+				"Valor": "0.929"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "79",
+				"Valor": "0.688"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "79",
+				"Valor": "0.348"
+			}
+		}
 	},
 	"501": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "16",
-		"Valor": "0.768"
+		"IDHc": {
+			"2011": {
+				"Posición": "18",
+				"Valor": "0.839"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "69",
+				"Valor": "0.799"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "15",
+				"Valor": "0.951"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "16",
+				"Valor": "0.768"
+			}
+		}
 	},
 	"502": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "41",
-		"Valor": "0.611"
+		"IDHc": {
+			"2011": {
+				"Posición": "37",
+				"Valor": "0.785"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "74",
+				"Valor": "0.781"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "7",
+				"Valor": "0.964"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "41",
+				"Valor": "0.611"
+			}
+		}
 	},
 	"503": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "37",
-		"Valor": "0.618"
+		"IDHc": {
+			"2011": {
+				"Posición": "35",
+				"Valor": "0.789"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "77",
+				"Valor": "0.775"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "4",
+				"Valor": "0.975"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "37",
+				"Valor": "0.618"
+			}
+		}
 	},
 	"504": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "45",
-		"Valor": "0.592"
+		"IDHc": {
+			"2011": {
+				"Posición": "54",
+				"Valor": "0.755"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "73",
+				"Valor": "0.786"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "37",
+				"Valor": "0.886"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "45",
+				"Valor": "0.592"
+			}
+		}
 	},
 	"505": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "38",
-		"Valor": "0.613"
+		"IDHc": {
+			"2011": {
+				"Posición": "48",
+				"Valor": "0.762"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "79",
+				"Valor": "0.749"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "24",
+				"Valor": "0.925"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "38",
+				"Valor": "0.613"
+			}
+		}
 	},
 	"506": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "27",
-		"Valor": "0.684"
+		"IDHc": {
+			"2011": {
+				"Posición": "40",
+				"Valor": "0.779"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "65",
+				"Valor": "0.815"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "52",
+				"Valor": "0.837"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "27",
+				"Valor": "0.684"
+			}
+		}
 	},
 	"507": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "30",
-		"Valor": "0.67"
+		"IDHc": {
+			"2011": {
+				"Posición": "33",
+				"Valor": "0.792"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "63",
+				"Valor": "0.825"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "39",
+				"Valor": "0.882"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "30",
+				"Valor": "0.67"
+			}
+		}
 	},
 	"508": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "48",
-		"Valor": "0.583"
+		"IDHc": {
+			"2011": {
+				"Posición": "28",
+				"Valor": "0.807"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "30",
+				"Valor": "0.872"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "6",
+				"Valor": "0.966"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "48",
+				"Valor": "0.583"
+			}
+		}
 	},
 	"509": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "15",
-		"Valor": "0.768"
+		"IDHc": {
+			"2011": {
+				"Posición": "10",
+				"Valor": "0.879"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "8",
+				"Valor": "0.928"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "18",
+				"Valor": "0.941"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "15",
+				"Valor": "0.768"
+			}
+		}
 	},
 	"510": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "71",
-		"Valor": "0.422"
+		"IDHc": {
+			"2011": {
+				"Posición": "67",
+				"Valor": "0.716"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "60",
+				"Valor": "0.831"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "31",
+				"Valor": "0.893"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "71",
+				"Valor": "0.422"
+			}
+		}
 	},
 	"511": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "32",
-		"Valor": "0.649"
+		"IDHc": {
+			"2011": {
+				"Posición": "14",
+				"Valor": "0.852"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "3",
+				"Valor": "0.948"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "11",
+				"Valor": "0.958"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "32",
+				"Valor": "0.649"
+			}
+		}
 	},
 	"601": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "23",
-		"Valor": "0.703"
+		"IDHc": {
+			"2011": {
+				"Posición": "31",
+				"Valor": "0.8"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "76",
+				"Valor": "0.78"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "28",
+				"Valor": "0.916"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "23",
+				"Valor": "0.703"
+			}
+		}
 	},
 	"602": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "26",
-		"Valor": "0.686"
+		"IDHc": {
+			"2011": {
+				"Posición": "21",
+				"Valor": "0.823"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "37",
+				"Valor": "0.865"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "27",
+				"Valor": "0.918"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "26",
+				"Valor": "0.686"
+			}
+		}
 	},
 	"603": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "78",
-		"Valor": "0.35"
+		"IDHc": {
+			"2011": {
+				"Posición": "78",
+				"Valor": "0.654"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "43",
+				"Valor": "0.853"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "69",
+				"Valor": "0.76"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "78",
+				"Valor": "0.35"
+			}
+		}
 	},
 	"604": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "43",
-		"Valor": "0.602"
+		"IDHc": {
+			"2011": {
+				"Posición": "43",
+				"Valor": "0.778"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "14",
+				"Valor": "0.893"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "51",
+				"Valor": "0.838"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "43",
+				"Valor": "0.602"
+			}
+		}
 	},
 	"605": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "44",
-		"Valor": "0.596"
+		"IDHc": {
+			"2011": {
+				"Posición": "36",
+				"Valor": "0.786"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "66",
+				"Valor": "0.811"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "12",
+				"Valor": "0.952"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "44",
+				"Valor": "0.596"
+			}
+		}
 	},
 	"606": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "42",
-		"Valor": "0.603"
+		"IDHc": {
+			"2011": {
+				"Posición": "47",
+				"Valor": "0.762"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "67",
+				"Valor": "0.808"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "41",
+				"Valor": "0.876"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "42",
+				"Valor": "0.603"
+			}
+		}
 	},
 	"607": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "18",
-		"Valor": "0.742"
+		"IDHc": {
+			"2011": {
+				"Posición": "25",
+				"Valor": "0.813"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "80",
+				"Valor": "0.746"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "14",
+				"Valor": "0.952"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "18",
+				"Valor": "0.742"
+			}
+		}
 	},
 	"608": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "68",
-		"Valor": "0.436"
+		"IDHc": {
+			"2011": {
+				"Posición": "60",
+				"Valor": "0.737"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "58",
+				"Valor": "0.833"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "17",
+				"Valor": "0.941"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "68",
+				"Valor": "0.436"
+			}
+		}
 	},
 	"609": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "49",
-		"Valor": "0.58"
+		"IDHc": {
+			"2011": {
+				"Posición": "46",
+				"Valor": "0.768"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "72",
+				"Valor": "0.786"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "20",
+				"Valor": "0.937"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "49",
+				"Valor": "0.58"
+			}
+		}
 	},
 	"610": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "29",
-		"Valor": "0.671"
+		"IDHc": {
+			"2011": {
+				"Posición": "42",
+				"Valor": "0.779"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "81",
+				"Valor": "0.744"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "26",
+				"Valor": "0.92"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "29",
+				"Valor": "0.671"
+			}
+		}
 	},
 	"611": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "40",
-		"Valor": "0.611"
+		"IDHc": {
+			"2011": {
+				"Posición": "64",
+				"Valor": "0.721"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "70",
+				"Valor": "0.793"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "70",
+				"Valor": "0.76"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "40",
+				"Valor": "0.611"
+			}
+		}
 	},
 	"701": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "67",
-		"Valor": "0.436"
+		"IDHc": {
+			"2011": {
+				"Posición": "73",
+				"Valor": "0.674"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "78",
+				"Valor": "0.774"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "58",
+				"Valor": "0.812"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "67",
+				"Valor": "0.436"
+			}
+		}
 	},
 	"702": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "74",
-		"Valor": "0.403"
+		"IDHc": {
+			"2011": {
+				"Posición": "75",
+				"Valor": "0.671"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "34",
+				"Valor": "0.866"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "74",
+				"Valor": "0.744"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "74",
+				"Valor": "0.403"
+			}
+		}
 	},
 	"703": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "51",
-		"Valor": "0.568"
+		"IDHc": {
+			"2011": {
+				"Posición": "62",
+				"Valor": "0.729"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "64",
+				"Valor": "0.822"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "63",
+				"Valor": "0.797"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "51",
+				"Valor": "0.568"
+			}
+		}
 	},
 	"704": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "77",
-		"Valor": "0.37"
+		"IDHc": {
+			"2011": {
+				"Posición": "80",
+				"Valor": "0.611"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "71",
+				"Valor": "0.789"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "80",
+				"Valor": "0.673"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "77",
+				"Valor": "0.37"
+			}
+		}
 	},
 	"705": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "81",
-		"Valor": "0.28"
+		"IDHc": {
+			"2011": {
+				"Posición": "79",
+				"Valor": "0.613"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "31",
+				"Valor": "0.871"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "78",
+				"Valor": "0.688"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "81",
+				"Valor": "0.28"
+			}
+		}
 	},
 	"706": {
-		"Índice": "Indice de Bienestar Material (IBM)",
-		"Año": "2011",
-		"Posición": "72",
-		"Valor": "0.413"
+		"IDHc": {
+			"2011": {
+				"Posición": "71",
+				"Valor": "0.695"
+			}
+		},
+		"IEV": {
+			"2011": {
+				"Posición": "6",
+				"Valor": "0.939"
+			}
+		},
+		"IC": {
+			"2011": {
+				"Posición": "75",
+				"Valor": "0.732"
+			}
+		},
+		"IBM": {
+			"2011": {
+				"Posición": "72",
+				"Valor": "0.413"
+			}
+		}
 	}
 }
