@@ -1,0 +1,50 @@
+{
+	"name": "desarrollo-humano-data",
+	"datapackage_version": "1.0-beta.5",
+	"title": "Desarrollo Humano Cantonal de Costa Rica",
+	"description": "Base de datos del desarrollo humano cantonal de Costa Rica. (Human development data for the cantons of Costa Rica.)",
+	"version": "0.0.1",
+	"keywords": [
+		"costa rica",
+		"hdi",
+		"human development index"
+	],
+	"licenses": [
+		{
+			"id": "odc-by",
+			"url": "http://opendatacommons.org/licenses/by/1.0/",
+			"name": "Open Data Commons Attribution License",
+			"version": "1.0"
+		}
+	],
+	"sources": [
+		{
+			"name": "Atlas del Desarrollo Humano Cantonal de Costa Rica 2012",
+			"web": "http://www.pnud.or.cr/mapa-cantonal/"
+		}
+	],
+	"contributors":[
+		{
+			"name": "Matthew Caruana Galizia",
+			"email": "m@m.cg",
+			"web": "http://m.cg/"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "Matthew Caruana Galizia",
+			"email": "m@m.cg",
+			"web": "http://m.cg/"
+		}
+	],
+	"resources": [
+		{
+			"path": "data/csv/desarollo-humano.csv",
+			"format": "csv"
+		},
+		{
+			"path": "data/json/desarollo-humano.json",
+			"format": "json"
+		}
+	]
+}

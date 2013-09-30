@@ -1,0 +1,10 @@
+{
+	"private": true,
+	"name": "desarrollo-humano-data",
+	"version": "0.0.1",
+	"devDependencies": {
+		"dsv": "0.x",
+		"jsdom": "0.x",
+		"async": "0.x"
+	}
+}

@@ -1,0 +1,488 @@
+{
+	"101": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "34",
+		"Valor": "0.634"
+	},
+	"102": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "1",
+		"Valor": "1"
+	},
+	"103": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "69",
+		"Valor": "0.431"
+	},
+	"104": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "50",
+		"Valor": "0.577"
+	},
+	"105": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "70",
+		"Valor": "0.43"
+	},
+	"106": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "54",
+		"Valor": "0.56"
+	},
+	"107": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "22",
+		"Valor": "0.709"
+	},
+	"108": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "35",
+		"Valor": "0.631"
+	},
+	"109": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "2",
+		"Valor": "1"
+	},
+	"110": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "80",
+		"Valor": "0.312"
+	},
+	"111": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "53",
+		"Valor": "0.565"
+	},
+	"112": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "60",
+		"Valor": "0.504"
+	},
+	"113": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "12",
+		"Valor": "0.825"
+	},
+	"114": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "7",
+		"Valor": "0.889"
+	},
+	"115": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "4",
+		"Valor": "0.954"
+	},
+	"116": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "39",
+		"Valor": "0.613"
+	},
+	"117": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "47",
+		"Valor": "0.586"
+	},
+	"118": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "11",
+		"Valor": "0.845"
+	},
+	"119": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "61",
+		"Valor": "0.503"
+	},
+	"120": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "76",
+		"Valor": "0.379"
+	},
+	"201": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "46",
+		"Valor": "0.588"
+	},
+	"202": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "63",
+		"Valor": "0.491"
+	},
+	"203": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "52",
+		"Valor": "0.567"
+	},
+	"204": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "28",
+		"Valor": "0.682"
+	},
+	"205": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "21",
+		"Valor": "0.724"
+	},
+	"206": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "62",
+		"Valor": "0.496"
+	},
+	"207": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "57",
+		"Valor": "0.536"
+	},
+	"208": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "65",
+		"Valor": "0.483"
+	},
+	"209": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "20",
+		"Valor": "0.729"
+	},
+	"210": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "33",
+		"Valor": "0.647"
+	},
+	"211": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "64",
+		"Valor": "0.485"
+	},
+	"212": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "59",
+		"Valor": "0.532"
+	},
+	"213": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "66",
+		"Valor": "0.457"
+	},
+	"214": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "73",
+		"Valor": "0.406"
+	},
+	"215": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "75",
+		"Valor": "0.391"
+	},
+	"301": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "25",
+		"Valor": "0.687"
+	},
+	"302": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "58",
+		"Valor": "0.536"
+	},
+	"303": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "31",
+		"Valor": "0.666"
+	},
+	"304": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "56",
+		"Valor": "0.551"
+	},
+	"305": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "55",
+		"Valor": "0.553"
+	},
+	"306": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "36",
+		"Valor": "0.625"
+	},
+	"307": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "17",
+		"Valor": "0.763"
+	},
+	"308": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "14",
+		"Valor": "0.784"
+	},
+	"401": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "13",
+		"Valor": "0.797"
+	},
+	"402": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "19",
+		"Valor": "0.73"
+	},
+	"403": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "5",
+		"Valor": "0.931"
+	},
+	"404": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "24",
+		"Valor": "0.702"
+	},
+	"405": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "8",
+		"Valor": "0.884"
+	},
+	"406": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "9",
+		"Valor": "0.871"
+	},
+	"407": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "3",
+		"Valor": "1"
+	},
+	"408": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "10",
+		"Valor": "0.865"
+	},
+	"409": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "6",
+		"Valor": "0.897"
+	},
+	"410": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "79",
+		"Valor": "0.348"
+	},
+	"501": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "16",
+		"Valor": "0.768"
+	},
+	"502": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "41",
+		"Valor": "0.611"
+	},
+	"503": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "37",
+		"Valor": "0.618"
+	},
+	"504": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "45",
+		"Valor": "0.592"
+	},
+	"505": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "38",
+		"Valor": "0.613"
+	},
+	"506": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "27",
+		"Valor": "0.684"
+	},
+	"507": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "30",
+		"Valor": "0.67"
+	},
+	"508": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "48",
+		"Valor": "0.583"
+	},
+	"509": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "15",
+		"Valor": "0.768"
+	},
+	"510": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "71",
+		"Valor": "0.422"
+	},
+	"511": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "32",
+		"Valor": "0.649"
+	},
+	"601": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "23",
+		"Valor": "0.703"
+	},
+	"602": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "26",
+		"Valor": "0.686"
+	},
+	"603": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "78",
+		"Valor": "0.35"
+	},
+	"604": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "43",
+		"Valor": "0.602"
+	},
+	"605": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "44",
+		"Valor": "0.596"
+	},
+	"606": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "42",
+		"Valor": "0.603"
+	},
+	"607": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "18",
+		"Valor": "0.742"
+	},
+	"608": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "68",
+		"Valor": "0.436"
+	},
+	"609": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "49",
+		"Valor": "0.58"
+	},
+	"610": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "29",
+		"Valor": "0.671"
+	},
+	"611": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "40",
+		"Valor": "0.611"
+	},
+	"701": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "67",
+		"Valor": "0.436"
+	},
+	"702": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "74",
+		"Valor": "0.403"
+	},
+	"703": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "51",
+		"Valor": "0.568"
+	},
+	"704": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "77",
+		"Valor": "0.37"
+	},
+	"705": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "81",
+		"Valor": "0.28"
+	},
+	"706": {
+		"Índice": "Indice de Bienestar Material (IBM)",
+		"Año": "2011",
+		"Posición": "72",
+		"Valor": "0.413"
+	}
+}
