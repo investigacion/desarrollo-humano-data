@@ -39,11 +39,11 @@
 	],
 	"resources": [
 		{
-			"path": "data/csv/desarollo-humano.csv",
+			"path": "data/csv/desarrollo-humano.csv",
 			"format": "csv"
 		},
 		{
-			"path": "data/json/desarollo-humano.json",
+			"path": "data/json/desarrollo-humano.json",
 			"format": "json"
 		}
 	]

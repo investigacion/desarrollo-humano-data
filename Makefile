@@ -4,8 +4,8 @@ HTMLS := \
 	data/html/conocimiento.html \
 	data/html/bienestar-material.html
 
-CSV := data/csv/desarollo-humano.csv
-JSON := data/json/desarollo-humano.json
+CSV := data/csv/desarrollo-humano.csv
+JSON := data/json/desarrollo-humano.json
 
 update: $(CSV) $(JSON)
 
